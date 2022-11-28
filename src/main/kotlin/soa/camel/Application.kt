@@ -54,10 +54,8 @@ class Router(meterRegistry: MeterRegistry) : RouteBuilder() {
                     .getHeader("keywords") as? String ?: ""
                 val (max, remain) = keywords.split(" ")
                     .partition { it.startsWith("max:") }
-                exchange.getIn().
-                    setHeader("keywords", remain.joinToString(" "))
-                exchange.getIn().
-                    setHeader("count", value)
+                exchange.getIn().setHeader("keywords", remain.joinToString(" "))
+                exchange.getIn().setHeader("count", value)
                 max.firstOrNull()
                     ?.drop(n)
                     ?.toIntOrNull()
