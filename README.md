@@ -26,3 +26,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | [Daniel-dgp](https://github.com/Daniel-dgp/lab5-soa/tree/work) | 756128 | [![Build Status](https://github.com/Daniel-dgp/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Daniel-dgp/lab5-soa/actions/workflows/ci.yml) |       |
 | [Ernesting](https://github.com/Ernesting/lab5-soa/tree/work) | 798799 | [![Build Status](https://github.com/Ernesting/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ernesting/lab5-soa/actions/workflows/ci.yml) |
 | [798523](https://github.com/798523/lab5-soa/tree/work) | 798523 | [![Build Status](https://github.com/798523/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/798523/lab5-soa/actions/workflows/ci.yml) |
+
